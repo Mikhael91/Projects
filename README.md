@@ -15,7 +15,7 @@ Solve Sudoku puzzles effortlessly with this program, designed to quickly and acc
 Navigate through mazes and find the shortest path with this program utilizing the A* algorithm. Whether it's finding the quickest route or exploring complex maps, this tool efficiently calculates optimal paths.
 
 Usage: 
-Each project folder contains detailed instructions on how to run or use the project. Please refer to the README file inside each project directory for specific guidance.
+Each project folder contains detailed description on the project. Please refer to the README file inside each project directory for specific information.
 
 Contributing: 
 Feel free to open issues or submit pull requests if you have any suggestions, improvements, or bug fixes for any of these projects. Your contributions are highly appreciated!
