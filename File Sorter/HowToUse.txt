@@ -1,0 +1,22 @@
+How to use file sorting program
+
+Buttons Function
+Manage sorting
+(Manages key and file directory)
+
+Add sorting
+(Adds key and file directory to sort files)
+
+Run sort by file type
+(Sort file by types)
+
+Run Sorting
+(Sort file by saved key and file destination)
+
+
+IMPORTANT!!!
+Key must be separated from file name
+correct : key-filename
+correct : key filename
+correct : key_filename
+wrong : keyfilename
